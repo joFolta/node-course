@@ -1,1 +1,1 @@
-My name is Johann.
+My name is Johann. I'm appending new content with fs.appendFileSync!
