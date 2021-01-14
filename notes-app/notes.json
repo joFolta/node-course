@@ -1,5 +1,1 @@
-[
-  { "title": "My title", "body": "My body" },
-  { "title": "List", "body": "Sweater, Pants" },
-  { "title": "List 2", "body": "Sweater, Pants" }
-]
+[{"title":"My title","body":"My body"},{"title":"List","body":"Sweater, Pants"}]
